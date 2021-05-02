@@ -63,7 +63,7 @@ jármű esetében pontosan meg van adva, hogy melyik alkatrésze hol helyeszkedi
 és az ezeket ért találatok hatással vannak a teljesítményükre. Ez a különbség 
 teszi lehetővé, hogy ne az ellenség HP csíkjait próbáljuk eltüntetni hanem az 
 ellenség legénységét vagy berendezéseit lőjjük ki a páncélzat megfelelő helyen 
-és szögben való eltalálásával. A játék tartalmz még helikoptereket, amik a 
+és szögben való eltalálásával. A játék tartalmaz még helikoptereket, amik a 
 szintén a fönt említett módon vannak modellezve. <span class="style8">g</span>A 
 helikopterek mellett megjelentek a modern 21. századi repülőgépek és tankok is, 
 mivel a játék biztosít integrált harcmezőt, ahol különböző harci gépek azonos 
